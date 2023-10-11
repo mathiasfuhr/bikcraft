@@ -57,7 +57,7 @@
         background-color: #2e2e2e;
     }
 
-    .header-menu a::after{
+    .header-menu a::after {
         display: none;
     }
 }
@@ -66,6 +66,7 @@
     .header-menu {
         gap: 12px;
     }
+
 
     .header-menu a {
         padding: 8px 12px;
